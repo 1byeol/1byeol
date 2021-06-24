@@ -1,172 +1,31 @@
-<!DOCTYPE HTML>
-<!--
-	Solid State by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>INTRODUCE MYSELF</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-
-		<!-- Page Wrapper -->
-			<div id="page-wrapper">
-
-				<!-- Header -->
-					<header id="header" class="alt">
-						<h1><a href="index.html">고한별의 포트폴리오</a></h1>
-						<nav>
-							<a href="#menu">Menu</a>
-						</nav>
-					</header>
-
-				<!-- Menu -->
-					<nav id="menu">
-						<div class="inner">
-							<h2>Menu</h2>
-							<ul class="links">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="generic.html">Generic</a></li>
-								<li><a href="elements.html">Elements</a></li>
-								<li><a href="#">Log In</a></li>
-								<li><a href="#">Sign Up</a></li>
-							</ul>
-							<a href="#" class="close">Close</a>
-						</div>
-					</nav>
-
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<div class="logo"><span class="icon fa-gem"></span></div>
-							<h2>高한별</h2>
-							<p>낭비한 시간에 대한 후회는 더 큰 시간 낭비다. -메이슨 쿨리-
-</a></p>
-						</div>
-					</section>
-
-				<!-- Wrapper -->
-					<section id="wrapper">
-
-						<!-- One -->
-							<section id="one" class="wrapper spotlight style1">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/사람.png" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Introduce</h2>
-										<p>중학교 때 영상에 관심을 가지게 되었고 전문적으로 배우고 싶다는 생각이 들어서 선린인터넷고등학교에
-											  입학하였다. 그리고 영상 제작 전문 동아리	자의누리에 들어가 실력을 키우고 있다. 앞으로 많은 사람들과
-										 작업하며 다양한 영상을 만들어보고 싶다. 그리고 내가 만든 영상을 보는 사람들에게 즐거움을 주고 싶다. </p>
+Solid State by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
+After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
+more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
+pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
+sort of look. Hope you dig it :)
+
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
 
 
-									</div>
-								</div>
-							</section>
+Credits:
 
-						<!-- Two -->
-							<section id="two" class="wrapper alt spotlight style2">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/f.png" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Education</h2>
-										<p>2011년 경수초등학교 입학</p>
-										<p>2017년 성원중학교 입학</p>
-										<p>2020년 선린인터넷고등학교 입학</p>
+	Demo Images:
+		Unsplash (unsplash.com)
 
+	Icons:
+		Font Awesome (fontawesome.io)
 
-									</div>
-								</div>
-							</section>
-
-						<!-- Three -->
-							<section id="three" class="wrapper spotlight style3">
-								<div class="inner">
-									<a href="https://github.com/1byeol/1byeol.github.io" class="image"><img src="images/e.png" alt=""  /></a>
-									<div class="content">
-										<h2 class="major">Project</h2>
-										<p>2021.06.21~2021.06.25</p>
-										<p>2학년 1학기 수행평가로 github를 사용해 포트폴리오를 만들어봤다.</p>
-<a  href="https://github.com/1byeol/1byeol.github.io"> 사진이나 글을 누르면 이동합니다.
-
-									</div>
-								</div>
-							</section>
-
-						<!-- Four -->
-							<section id="four" class="wrapper alt style1">
-								<div class="inner">
-									<h2 class="major">Likes</h2>
-									<section class="features">
-										<article>
-											<a href="#" class="image"><img src="images/올림픽.jpg" alt="" /></a>
-											<h3 class="major">올림픽 픽토그램 수행평가</h3>
-											<p>1학년 때 처음으로 한 수행평가이다. 2020년도에 했기 때문에 숫자 2와 0을 사용하여 만들었다.
-												 그리고 우리나라의 대표적이라고 생각하는 색깔 파란색과 빨간색을 사용하여 만들었다.
-											 부자연스러운 그림이 몇 개 있어서 아쉬웠지만 특징을 잘 잡은 것 같아 만족스럽다. </p>
-							</article>
-
-										<article>
-											<a href="#" class="image"><img src="images/a.jpg" alt="" /></a>
-											<h3 class="major">자의누리 동아리 포스터</h3>
-											<p>After Effects를 모티브로 만들어보았다. 프로그램의 재생바와 자의누리
-											공식 색깔 두 가지를 사용하여 제작했다.</p>
-
-
-										</article>
-
-										</article>
-									</section>
-									<ul class="actions">
-
-									</ul>
-								</div>
-							</section>
-
-					</section>
-
-				<!-- Footer -->
-					<section id="footer">
-						<div class="inner">
-
-								</ul>
-							</form>
-							<div class="inner">
-
-						<div class="">
-
-
-							<ul class="contact">
-								<li class="icon solid fa-home" > <a href="http://sunrint.hs.kr/index.do">
-									선린인터넷고등학교
-									서울특별시 용산구 청파동 원효로97길 33-4
-								</li>
-								<li class="icon solid fa-phone">010-3408-3597</li>
-								<li class="icon solid fa-envelope"><a href="#">rhgksquf97@naver.com</a></li>
-								<li class="icon brands fa-instagram"><a href="https://www.instagram.com/accounts/onetap/?next=%2F">@1byeo_l</a></li>
-							</ul>
-							<ul class="copyright">
-								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-							</ul>
-						</div>
-
-
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
-
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
